@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+.home{
+  text-align: center;
+  background-color: burlywood;
+  height:100vh;
+  font-family: 'Dancing Script', cursive;
+}
